@@ -1,5 +1,7 @@
 # Levylly Leads
 
+![Levylly Leads: nota de leads, follow-ups e funil de vendas](docs/capa.png)
+
 API de prospecção para quem vende sites e sistemas para negócios locais. Ela **dá uma nota de 0 a 100 para cada lead**, mostra **quem abordar primeiro**, controla os **follow-ups** e mede o **funil de vendas**, incluindo as objeções que mais travam o fechamento.
 
 > *A prospecting API for studios that sell websites to local businesses: lead scoring, a small CRM with follow-ups, and a sales funnel with the most common objections.*
