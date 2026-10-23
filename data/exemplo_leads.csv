@@ -1,0 +1,7 @@
+nome;nicho;cidade;whatsapp;instagram;site;avaliacao;num_avaliacoes;status;abordado_em;followup_em;observacao
+Doceria Exemplo;confeitaria;São Paulo;(11) 90000-0001;@doceria.exemplo;;4,9;320;novo;;;Dados fictícios para demonstração
+Bolos da Vó Exemplo;confeitaria;São Paulo;(11) 90000-0002;;https://instagram.com/bolosdavo;5,0;45;novo;;;
+Confeitaria Modelo;confeitaria;Osasco;(11) 90000-0003;@confeitaria.modelo;https://confeitariamodelo.com.br;4,7;210;novo;;;Já tem site próprio
+Açaí do Rio Exemplo;açaí;Rio de Janeiro;(21) 90000-0004;@acai.exemplo;;4,8;150;abordado;2026-10-20;2026-10-23;
+Sushi Teste;sushi;Teresina;(86) 90000-0005;;;4,6;80;novo;;;
+Hamburgueria Fictícia;hamburgueria;Teresina;(86) 3200-0006;@burger.ficticio;;4,4;60;novo;;;Telefone fixo
